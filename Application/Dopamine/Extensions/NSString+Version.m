@@ -16,7 +16,7 @@
     NSArray *components = [self componentsSeparatedByCharactersInSet:[[NSCharacterSet decimalDigitCharacterSet] invertedSet]];
     
     components = [components filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"SELF != ''"]];
-    assert(components.count <= 3);
+    assert(components.count == 1);
     
     while (components.count < 3)
         components = [components arrayByAddingObject:@"0"];
