@@ -1,15 +1,1 @@
-# roothide Dopamine 2
-
-- Document: https://github.com/roothide/Developer
-
-- Support: https://twitter.com/roothideDev
-
-- Discord: https://discord.gg/ZvY2Yjw8GA
-
-
-# How To Build
-
-- [build your own tipa on github action](BUILD.md).
-
-- or ref to [.github/workflows/main.yml](.github/workflows/main.yml) if you want to build it on macOS.
-
+![Dopamine Banner copy](https://github.com/user-attachments/assets/0e5aac90-d51c-48e1-9b03-17a302cdb03c)
